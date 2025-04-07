@@ -1,4 +1,7 @@
 // Interface Provided untuk layanan buku
+
+import java.util.List;
+
 public interface IBookService {
     boolean addBook(Book book);
     boolean removeBook(String isbn);

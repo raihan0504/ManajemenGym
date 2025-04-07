@@ -1,4 +1,7 @@
 // Interface Required untuk repositori buku
+
+import java.util.List;
+
 public interface IBookRepository {
     boolean save(Book book);
     boolean delete(String isbn);

@@ -1,4 +1,7 @@
 // Interface Required untuk repositori peminjaman
+
+import java.util.List;
+
 public interface ILoanRepository {
     boolean save(Loan loan);
     boolean update(Loan loan);

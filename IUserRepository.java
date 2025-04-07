@@ -1,6 +1,9 @@
 
 // File: IUserRepository.java
 // Interface Required untuk repositori pengguna
+
+import java.util.List;
+
 public interface IUserRepository {
     boolean save(User user);
     boolean delete(int userId);
