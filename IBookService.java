@@ -5,3 +5,4 @@ public interface IBookService {
     Book findBookByIsbn(String isbn);
     List<Book> searchBooksByTitle(String title);
     List<Book> getAllBooks();
+}
