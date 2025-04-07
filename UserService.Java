@@ -1,5 +1,5 @@
 
-// File: IUserService.java
+
 // Interface Provided untuk layanan pengguna
 public interface IUserService {
     boolean registerUser(User user);

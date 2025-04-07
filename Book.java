@@ -1,4 +1,4 @@
-// File: Book.java
+
 // Class untuk entitas Buku
 public class Book {
     private String isbn;
