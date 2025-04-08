@@ -1,4 +1,6 @@
-
+public class LibraryManagementSystem {
+    
+}
 // Class utama untuk menjalankan aplikasi
 import java.util.List;
 import java.util.Scanner;
