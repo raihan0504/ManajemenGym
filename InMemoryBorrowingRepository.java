@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
 
 // Implementasi BorrowingRepository
 class InMemoryBorrowingRepository implements BorrowingRepository {

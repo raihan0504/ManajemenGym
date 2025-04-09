@@ -1,3 +1,6 @@
+
+import java.util.List;
+
 // Interface required untuk penyimpanan peminjaman
 interface BorrowingRepository {
     void save(Borrowing borrowing);
