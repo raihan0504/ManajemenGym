@@ -1,3 +1,7 @@
+import java.time.LocalDateTime;
+import java.util.HashMap;
+import java.util.Map;
+
 class PaymentComponent implements IPaymentProcessor {
     private Map<String, PaymentRecord> paymentRecords = new HashMap<>();
     

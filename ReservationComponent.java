@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 class ReservationComponent implements IReservationService {
     private IRoomManagement roomService;
     private IPaymentProcessor paymentService;

@@ -1,4 +1,8 @@
-// 3. Class utama sistem
+
+import java.time.LocalDate;
+import java.util.Scanner;
+
+// Class utama sistem
 public class HotelReservationSystem {
     private static Scanner scanner = new Scanner(System.in);
     private static ReservationComponent reservationService;
