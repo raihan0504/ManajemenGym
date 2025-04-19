@@ -1,4 +1,4 @@
-public class ReportingModule implements IReportGenerator {
+class ReportingModule implements IReportGenerator {
     private IMemberData memberData;
     private IScheduleData scheduleData;
     private PaymentModule paymentModule;

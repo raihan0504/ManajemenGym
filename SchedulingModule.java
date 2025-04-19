@@ -1,4 +1,4 @@
-public class SchedulingModule {
+class SchedulingModule {
     private IScheduleData scheduleData;
     private java.util.Scanner scanner = new java.util.Scanner(System.in);
     private static int nextScheduleId = 1;
