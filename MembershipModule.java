@@ -55,6 +55,7 @@ class MembershipModule {
         System.out.print("Telepon: ");
         String phone = scanner.nextLine();
         
+        System.out.print("Harga: Reguler: 50000, Premium: 150000, VIP: 200000: \n");
         System.out.print("Tipe Keanggotaan (Reguler/Premium/VIP): ");
         String membershipType = scanner.nextLine();
         
